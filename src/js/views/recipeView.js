@@ -1,7 +1,7 @@
 import View from './view';
 import icons from '../../img/icons.svg';
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+
 // console.log(Fraction);
 // let Fraction = require('fractional').Fraction;
 
